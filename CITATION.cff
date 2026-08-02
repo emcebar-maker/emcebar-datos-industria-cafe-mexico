@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas este dataset, por favor cítalo de la siguiente manera."
+title: "Datos de la Industria del Café y Coctelería en México"
+type: dataset
+authors:
+  - name: "EMCEBAR"
+    website: "https://www.emcebar.org.mx/"
+repository-code: "https://github.com/emcebar-maker/emcebar-datos-industria-cafe-mexico"
+url: "https://www.emcebar.org.mx/"
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-08-01
+keywords:
+  - mexico
+  - cafe
+  - barismo
+  - coctelería
+  - industria de alimentos y bebidas
+  - datos abiertos
