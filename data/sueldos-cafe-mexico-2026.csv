@@ -1,0 +1,17 @@
+puesto,nivel_experiencia,sueldo_min_mxn,sueldo_max_mxn,incluye_propinas,notas,articulo_fuente
+Barista Junior,0-1 año sin diploma,7000,9000,parcial,,barista-vs-bartender
+Barista Junior,0-1 año,9500,10500,parcial,,que-es-barismo
+Barista Certificado,con diploma,9500,15000,si,tope superior del sector segun varios articulos,barista-vs-bartender
+Barista Certificado,1-3 años,10500,15000,si,,que-es-barismo
+Barista con experiencia sin certificacion,6-12 meses,8000,12000,si,,certificacion-vs-experiencia
+Barista Certificado tiempo completo,variable,0,15000,si,rango inicia en Salario Minimo vigente,certificacion-vs-experiencia
+Head Barista,3-5 años,15000,25000,si,,que-es-barismo
+Barista Trainer,5+ años,20000,35000,no,trabaja en escuelas o capacitacion corporativa,que-es-barismo
+Barista en hotel o aeropuerto,certificado,12000,18000,si,,barista-vs-bartender
+Barista en el extranjero,Australia/Canada,25000,45000,si,cifra equivalente en MXN,que-es-barismo
+Bartender Junior,sin diploma,6000,9000,parcial,,barista-vs-bartender
+Bartender,con diploma,8000,14000,si,propinas altas en zonas turisticas,barista-vs-bartender
+Bartender en resort 5 estrellas,con diploma,8000,14000,si,propinas pueden duplicar el sueldo base,barista-vs-bartender
+Bartender en crucero o destino turistico,con diploma,15000,30000,si,incluye propinas en USD,barista-vs-bartender
+Barista cadena corporativa,variable,6970,12296,parcial,dato reportado por cadenas,certificacion-vs-experiencia
+Emprendedor cafeteria (utilidad mensual),negocio propio,30000,100000,no aplica,despues de punto de equilibrio,que-es-barismo

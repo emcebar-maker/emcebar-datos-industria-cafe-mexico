@@ -1,0 +1,10 @@
+criterio,cafeteria_propia,franquicia,catering,articulo_fuente
+Inversion inicial MXN,75000-300000,250000-2000000,150000-800000,cafeteria-propia-vs-franquicia;cafeteria-vs-catering
+Margen neto sobre ventas,15%-30%,8%-15% despues de regalias,7%-15% por evento,cafeteria-propia-vs-franquicia;cafeteria-vs-catering
+Punto de equilibrio,12-24 meses,24-72 meses,variable segun temporada,cafeteria-propia-vs-franquicia;cafeteria-vs-catering
+Regalias mensuales,ninguna,5%-8% de ventas,no aplica,cafeteria-propia-vs-franquicia
+Frecuencia de ingresos,diaria,diaria,puntual por evento,cafeteria-vs-catering
+Estacionalidad,baja,baja,alta,cafeteria-vs-catering
+Escalabilidad,alta sucursales retail educacion,media,media mas eventos mas complejidad,cafeteria-vs-catering
+Valor de reventa del negocio,alto,limitado depende del contrato,bajo depende de contratos puntuales,cafeteria-propia-vs-franquicia;cafeteria-vs-catering
+Ticket promedio MXN,150-300,150-300,15000-500000 por evento,cafeteria-vs-catering

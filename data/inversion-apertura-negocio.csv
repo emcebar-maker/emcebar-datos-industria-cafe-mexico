@@ -1,0 +1,17 @@
+concepto,inversion_min_mxn,inversion_max_mxn,notas,articulo_fuente
+Barra movil o coffee bike,75000,80000,,cafeteria-propia-vs-franquicia
+Cafeteria pequena hasta 60m2,80000,150000,,cafeteria-propia-vs-franquicia
+Cafeteria mediana 60-100m2,200000,500000,,cafeteria-propia-vs-franquicia
+Cafeteria grande o especialidad +100m2,500000,1000000,,cafeteria-propia-vs-franquicia
+Coffee Bar cafeteria mas barra de alcohol,250000,600000,,cafeteria-propia-vs-franquicia
+Franquicia Pick Up Coffee,250000,450000,regalias aprox 5-6% de ventas,cafeteria-propia-vs-franquicia
+Franquicia Sede Cafe kiosko,350000,350000,regalias aprox 6% de ventas,cafeteria-propia-vs-franquicia
+Franquicia Sede Cafe local,500000,600000,regalias aprox 6% de ventas,cafeteria-propia-vs-franquicia
+Maquina espresso gama entrada,35000,60000,1-2 grupos semiautomaticas,maquinas-espresso
+Maquina espresso gama media,60000,100000,ej La Cimbali M39 70000-81000,maquinas-espresso
+Maquina espresso gama alta,100000,180000,,maquinas-espresso
+Maquina espresso gama premium,180000,250000,marcas La Marzocco Slayer,maquinas-espresso
+Deposito en garantia comodato,5000,15000,sin inversion en equipo,maquinas-espresso
+Catering cocina y transporte,150000,800000,,cafeteria-vs-catering
+Curso introductorio de barismo online,1990,1990,desde este monto,que-es-barismo
+Formacion EMCEBAR completa con certificacion,3500,30000,retorno esperado en empleo o negocio,que-es-barismo
