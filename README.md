@@ -37,6 +37,7 @@ Cada dato incluye una columna `articulo_fuente` que remite al artículo original
 5. [Certificación de Barista vs Experiencia Práctica](https://www.emcebar.org.mx/certificacion-barista-vs-experiencia-practica-que-piden-las-cafeterias-al-contratar/) — jul. 2026
 6. [Máquinas de Espresso: ¿Rentar o Comprar?](https://www.emcebar.org.mx/maquinas-de-espresso-que-conviene-mas-rentar-comprar-analisis-retorno-para-cafeterias-mexico/) — jul. 2026
 7. [Café de Especialidad Vs Café Comercial](https://www.emcebar.org.mx/cafe-de-especialidad-vs-cafe-comercial-diferencias-reales-en-sabor-precio-y-proceso/) — sep. 2026
+8. [Cafetería fija Vs Cafetería móvil o food truck](https://www.emcebar.org.mx/cafeteria-fija-vs-cafeteria-movil-food-truck-cual-modelo-conviene-mas-en-mexico/) — sep. 2026
 
 ## Notas de metodología
 
