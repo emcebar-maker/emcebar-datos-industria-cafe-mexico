@@ -8,13 +8,3 @@ Estacionalidad,baja,baja,alta,cafeteria-vs-catering
 Escalabilidad,alta sucursales retail educacion,media,media mas eventos mas complejidad,cafeteria-vs-catering
 Valor de reventa del negocio,alto,limitado depende del contrato,bajo depende de contratos puntuales,cafeteria-propia-vs-franquicia;cafeteria-vs-catering
 Ticket promedio MXN,150-300,150-300,15000-500000 por evento,cafeteria-vs-catering
-
-
-comparacion_id,criterio,valor_modelo_a,valor_modelo_b,modelo_a,modelo_b,articulo_fuente
-fija_vs_movil,inversion_inicial_mxn,"75000-1000000+","109900-923000 (segun categoria)",cafeteria_fija,cafeteria_movil_food_truck,https://www.emcebar.org.mx/cafeteria-fija-vs-cafeteria-movil-food-truck-cual-modelo-conviene-mas-en-mexico/
-fija_vs_movil,renta_mensual,"10000-30000 MXN + deposito","Ninguna (solo permisos/estacionamiento)",cafeteria_fija,cafeteria_movil_food_truck,https://www.emcebar.org.mx/cafeteria-fija-vs-cafeteria-movil-food-truck-cual-modelo-conviene-mas-en-mexico/
-fija_vs_movil,movilidad,"Nula, ubicacion fija","Total, se desplaza a donde esta el cliente",cafeteria_fija,cafeteria_movil_food_truck,https://www.emcebar.org.mx/cafeteria-fija-vs-cafeteria-movil-food-truck-cual-modelo-conviene-mas-en-mexico/
-fija_vs_movil,permisos,"Licencia de funcionamiento, uso de suelo, COFEPRIS","Via publica/anuncios, varian por alcaldia, menos estandarizados",cafeteria_fija,cafeteria_movil_food_truck,https://www.emcebar.org.mx/cafeteria-fija-vs-cafeteria-movil-food-truck-cual-modelo-conviene-mas-en-mexico/
-fija_vs_movil,margen_neto_estimado,15-30%,"Similar en foodcost (28-38%), sin costo de renta fija",cafeteria_fija,cafeteria_movil_food_truck,https://www.emcebar.org.mx/cafeteria-fija-vs-cafeteria-movil-food-truck-cual-modelo-conviene-mas-en-mexico/
-fija_vs_movil,escalabilidad,"Una sucursal a la vez, alta inversion por punto","4-5 unidades moviles por el costo de 1 local fijo",cafeteria_fija,cafeteria_movil_food_truck,https://www.emcebar.org.mx/cafeteria-fija-vs-cafeteria-movil-food-truck-cual-modelo-conviene-mas-en-mexico/
-fija_vs_movil,recuperacion_inversion,"12-24 meses","Mas rapida si hay buen flujo, pero variable segun consistencia de ubicacion",cafeteria_fija,cafeteria_movil_food_truck,https://www.emcebar.org.mx/cafeteria-fija-vs-cafeteria-movil-food-truck-cual-modelo-conviene-mas-en-mexico/
