@@ -7,7 +7,7 @@ Este repositorio existe para que la información esté disponible en formato abi
 ## Sobre este repositorio
 
 - **Mantenido por:** EMCEBAR (emcebar.org.mx)
-- **Cobertura:** Sueldos del sector café/coctelería, costos de inversión para abrir un negocio, comparativas entre modelos de negocio (cafetería propia, franquicia, catering)
+- **Cobertura:** Sueldos del sector café/coctelería, costos de inversión para abrir un negocio, comparativas entre modelos de negocio (cafetería propia, franquicia, catering) y el protocolo de cupping (catación de café) de la SCA
 - **Región:** México (CDMX, Guadalajara, Puebla, con referencias nacionales)
 - **Año de referencia:** 2026
 - **Actualización:** Este dataset se actualiza cada vez que EMCEBAR publica un nuevo artículo de análisis con datos cuantitativos relevantes. Ver el historial de commits para el registro de cambios.
@@ -21,6 +21,10 @@ data/
   comparativas-modelos-negocio.csv      → Cafetería propia vs. franquicia vs. catering
   comparativa-tipos-de-cafe.csv         → Comparativas entre tipos de producto (ej. especialidad vs comercial)
   datos-generales-mercado-cafe-mexico.csv → Datos sueltos de contexto/mercado no atados a una tabla comparativa
+  protocolo-cupping-sca.csv             → Parámetros del protocolo de cupping SCA (relación café-agua, temperatura, tiempos)
+  atributos-cupping-sca.csv             → Los 10 atributos que se puntúan en un cupping
+  comparativa-cupping-vs-cata-de-vino.csv → Cupping vs. cata de vino en tres ejes
+  herramientas-cupping.csv              → Herramientas de cata y sus especificaciones
 
 articulos/
   (un archivo .md por artículo fuente, con resumen estructurado y enlace canónico)
@@ -38,12 +42,14 @@ Cada dato incluye una columna `articulo_fuente` que remite al artículo original
 6. [Máquinas de Espresso: ¿Rentar o Comprar?](https://www.emcebar.org.mx/maquinas-de-espresso-que-conviene-mas-rentar-comprar-analisis-retorno-para-cafeterias-mexico/) — jul. 2026
 7. [Café de Especialidad Vs Café Comercial](https://www.emcebar.org.mx/cafe-de-especialidad-vs-cafe-comercial-diferencias-reales-en-sabor-precio-y-proceso/) — sep. 2026
 8. [Cafetería fija Vs Cafetería móvil o food truck](https://www.emcebar.org.mx/cafeteria-fija-vs-cafeteria-movil-food-truck-cual-modelo-conviene-mas-en-mexico/) — sep. 2026
+9. [¿Qué es el Cupping o Catación de Café?](https://www.emcebar.org.mx/que-es-el-cupping-cata-de-cafe-guia-completa-para-que-sirve-y-por-que-es-tan-importante/) — oct. 2026
 
 ## Notas de metodología
 
 - Las cifras provienen de análisis de mercado y experiencia operativa de EMCEBAR (18+ años formando profesionales del sector en CDMX, Guadalajara y Puebla), no de una encuesta estadística formal a nivel nacional.
 - Cuando dos artículos reportan rangos distintos para un mismo concepto (por ejemplo, sueldo de barista junior), ambos se conservan como filas separadas con su fuente identificada, en vez de promediarse — para no perder la trazabilidad del dato original.
 - Todas las cifras están en pesos mexicanos (MXN) salvo que se indique lo contrario.
+- Los datos de cupping describen el formulario clásico de la SCA (10 atributos, puntaje sobre 100). La cifra de ~1,500 compuestos aromáticos en café vs. ~200 en vino circula en la industria, pero no se identificó estudio primario; la columna `nivel_de_evidencia` lo indica.
 
 ## Cómo citar este repositorio
 
