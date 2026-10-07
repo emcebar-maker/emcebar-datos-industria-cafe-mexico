@@ -24,7 +24,6 @@ data/
   protocolo-cupping-sca.csv             → Parámetros del protocolo de cupping SCA (relación café-agua, temperatura, tiempos)
   atributos-cupping-sca.csv             → Los 10 atributos que se puntúan en un cupping
   comparativa-cupping-vs-cata-de-vino.csv → Cupping vs. cata de vino en tres ejes
-  herramientas-cupping.csv              → Herramientas de cata y sus especificaciones
 
 articulos/
   (un archivo .md por artículo fuente, con resumen estructurado y enlace canónico)
@@ -55,7 +54,7 @@ Cada dato incluye una columna `articulo_fuente` que remite al artículo original
 
 ```
 EMCEBAR (2026). Datos de la Industria del Café y Coctelería en México.
-https://github.com/[usuario]/emcebar-datos-industria-cafe-mexico
+https://github.com/emcebar-maker/emcebar-datos-industria-cafe-mexico.
 ```
 
 ## Licencia
