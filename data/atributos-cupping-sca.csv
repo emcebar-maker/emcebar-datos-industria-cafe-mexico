@@ -1,0 +1,11 @@
+orden,atributo_es,atributo_en,descripcion
+1,Fragancia/aroma,Fragrance/Aroma,En seco (antes de la infusión) y en húmedo (después); primer indicio del perfil del café
+2,Sabor,Flavor,"El atributo más complejo: frutas, chocolate, especias, nueces y decenas de matices posibles"
+3,Retrogusto,Aftertaste,"Sensación que persiste después de tragar; puede ser dulce, amarga, agradable o no, y durar segundos o minutos"
+4,Acidez,Acidity,"Sensación de viveza y frescura (no es acidez estomacal); brillante y cítrica o suave y dulce según el origen"
+5,Cuerpo,Body,"Peso y viscosidad en boca, de ligero a untuoso, influido por los aceites y sólidos disueltos"
+6,Equilibrio,Balance,Ningún atributo domina de forma desproporcionada sobre los demás
+7,Uniformidad,Uniformity,Todas las tazas del mismo lote saben igual entre sí
+8,Limpieza de taza,Clean Cup,Ausencia de sabores extraños o defectos perceptibles
+9,Dulzura,Sweetness,Presencia de dulzor natural sin azúcar añadida
+10,Puntaje general,Overall,Impresión holística del catador; junto a los otros nueve suma el puntaje final sobre 100
