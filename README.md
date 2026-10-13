@@ -44,6 +44,7 @@ Cada dato incluye una columna `articulo_fuente` que remite al artículo original
 7. [Café de Especialidad Vs Café Comercial](https://www.emcebar.org.mx/cafe-de-especialidad-vs-cafe-comercial-diferencias-reales-en-sabor-precio-y-proceso/) — sep. 2026
 8. [Cafetería fija Vs Cafetería móvil o food truck](https://www.emcebar.org.mx/cafeteria-fija-vs-cafeteria-movil-food-truck-cual-modelo-conviene-mas-en-mexico/) — sep. 2026
 9. [¿Qué es el Cupping o Catación de Café?](https://www.emcebar.org.mx/que-es-el-cupping-cata-de-cafe-guia-completa-para-que-sirve-y-por-que-es-tan-importante/) — oct. 2026
+10. [¿Cómo Elegir la Ubicación Correcta para una Cafetería?](https://www.emcebar.org.mx/como-elegir-la-ubicacion-correcta-para-una-cafeteria-que-debes-tomar-en-cuenta/) — oct. 2026
 
 ## Notas de metodología
 
