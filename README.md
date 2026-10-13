@@ -48,7 +48,7 @@ Cada dato incluye una columna `articulo_fuente` que remite al artículo original
 
 ## Notas de metodología
 
-- Las cifras provienen de análisis de mercado y experiencia operativa de EMCEBAR (18+ años formando profesionales del sector en CDMX, Guadalajara y Puebla), no de una encuesta estadística formal a nivel nacional.
+- Las cifras provienen de análisis de mercado y experiencia operativa de EMCEBAR (20+ años formando profesionales del sector en CDMX, Guadalajara y Puebla), no de una encuesta estadística formal a nivel nacional.
 - Cuando dos artículos reportan rangos distintos para un mismo concepto (por ejemplo, sueldo de barista junior), ambos se conservan como filas separadas con su fuente identificada, en vez de promediarse — para no perder la trazabilidad del dato original.
 - Todas las cifras están en pesos mexicanos (MXN) salvo que se indique lo contrario.
 - Los datos de cupping describen el formulario clásico de la SCA (10 atributos, puntaje sobre 100). La cifra de ~1,500 compuestos aromáticos en café vs. ~200 en vino circula en la industria, pero no se identificó estudio primario; la columna `nivel_de_evidencia` lo indica.
