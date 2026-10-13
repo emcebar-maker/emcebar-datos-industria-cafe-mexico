@@ -24,6 +24,8 @@ data/
   protocolo-cupping-sca.csv             → Parámetros del protocolo de cupping SCA (relación café-agua, temperatura, tiempos)
   atributos-cupping-sca.csv             → Los 10 atributos que se puntúan en un cupping
   comparativa-cupping-vs-cata-de-vino.csv → Cupping vs. cata de vino en tres ejes
+  ubicacion-cafeteria-factores.csv            → Los 6 factores para elegir ubicación de una cafetería
+  ubicacion-cafeteria-por-tipo-de-zona.csv    → Ventaja y riesgo principal por tipo de zona
 
 articulos/
   (un archivo .md por artículo fuente, con resumen estructurado y enlace canónico)
