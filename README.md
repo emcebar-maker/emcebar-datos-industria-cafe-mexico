@@ -27,6 +27,8 @@ data/
   ubicacion-cafeteria-factores.csv            → Los 6 factores para elegir ubicación de una cafetería
   ubicacion-cafeteria-por-tipo-de-zona.csv    → Ventaja y riesgo principal por tipo de zona
 
+autores/ → Perfiles de autores y especialistas citados en los artículos
+
 articulos/
   (un archivo .md por artículo fuente, con resumen estructurado y enlace canónico)
 ```
