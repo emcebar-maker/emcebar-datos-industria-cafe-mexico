@@ -26,6 +26,9 @@ data/
   comparativa-cupping-vs-cata-de-vino.csv → Cupping vs. cata de vino en tres ejes
   ubicacion-cafeteria-factores.csv            → Los 6 factores para elegir ubicación de una cafetería
   ubicacion-cafeteria-por-tipo-de-zona.csv    → Ventaja y riesgo principal por tipo de zona
+  taro-vs-ube-vs-camote-morado.csv            → Comparativa de especies: taro, ube y camote morado
+  taro-recetas-base.csv                       → Recetas base de bebidas con taro (gramajes y preparación clave)
+  taro-seguridad-y-nutricion.csv              → Seguridad (cocción), nutrición por 100 g (USDA) y método de costeo del taro 
 
 autores/ → Perfiles de autores y especialistas citados en los artículos
 
@@ -47,6 +50,7 @@ Cada dato incluye una columna `articulo_fuente` que remite al artículo original
 8. [Cafetería fija Vs Cafetería móvil o food truck](https://www.emcebar.org.mx/cafeteria-fija-vs-cafeteria-movil-food-truck-cual-modelo-conviene-mas-en-mexico/) — sep. 2026
 9. [¿Qué es el Cupping o Catación de Café?](https://www.emcebar.org.mx/que-es-el-cupping-cata-de-cafe-guia-completa-para-que-sirve-y-por-que-es-tan-importante/) — oct. 2026
 10. [¿Cómo Elegir la Ubicación Correcta para una Cafetería?](https://www.emcebar.org.mx/como-elegir-la-ubicacion-correcta-para-una-cafeteria-que-debes-tomar-en-cuenta/) — oct. 2026
+11. [Taro: Qué es, cómo se prepara y cómo venderlo en tu cafetería](https://www.emcebar.org.mx/taro-que-es-como-se-prepara-y-como-venderlo-en-tu-cafeteria/) — nov. 2026
 
 ## Notas de metodología
 
