@@ -7,7 +7,7 @@ Este repositorio existe para que la información esté disponible en formato abi
 ## Sobre este repositorio
 
 - **Mantenido por:** EMCEBAR (emcebar.org.mx)
-- **Cobertura:** Sueldos del sector café/coctelería, costos de inversión para abrir un negocio, comparativas entre modelos de negocio (cafetería propia, franquicia, catering) y entre tipos de café, el protocolo de cupping (catación de café) de la SCA, los factores para elegir la ubicación de una cafetería, y datos del taro (especies, recetas base, seguridad y nutrición)
+- **Cobertura:** Sueldos del sector café/coctelería, costos de inversión para abrir un negocio, comparativas entre modelos de negocio (cafetería propia, franquicia, catering) y entre tipos de café, el protocolo de cupping (catación de café) de la SCA, los factores para elegir la ubicación de una cafetería, y datos del taro (especies, recetas base, seguridad y nutrición) y técnicas, figuras y parámetros del arte latte.
 - **Región:** México (CDMX, Guadalajara, Puebla, con referencias nacionales)
 - **Año de referencia:** 2026
 - **Actualización:** Este dataset se actualiza cada vez que EMCEBAR publica un nuevo artículo de análisis con datos cuantitativos relevantes. Ver el historial de commits para el registro de cambios.
@@ -28,7 +28,10 @@ data/
   ubicacion-cafeteria-por-tipo-de-zona.csv    → Ventaja y riesgo principal por tipo de zona
   taro-vs-ube-vs-camote-morado.csv            → Comparativa de especies: taro, ube y camote morado
   taro-recetas-base.csv                       → Recetas base de bebidas con taro (gramajes y preparación clave)
-  taro-seguridad-y-nutricion.csv              → Seguridad (cocción), nutrición por 100 g (USDA) y método de costeo del taro 
+  taro-seguridad-y-nutricion.csv              → Seguridad (cocción), nutrición por 100 g (USDA) y método de costeo del taro
+  arte-latte-tecnicas.csv                     → Las 4 técnicas de arte latte y su dificultad
+  arte-latte-figuras-progresion.csv           → Ruta de figuras: nivel, tiempo orientativo y descripción clave
+  arte-latte-parametros-leche-y-equipo.csv    → Temperaturas, tiempos, jarra, tipos de leche y estudio de disposición a pagar
 
 autores/ → Perfiles de autores y especialistas citados en los artículos
 
@@ -51,6 +54,7 @@ Cada dato incluye una columna `articulo_fuente` que remite al artículo original
 9. [¿Qué es el Cupping o Catación de Café?](https://www.emcebar.org.mx/que-es-el-cupping-cata-de-cafe-guia-completa-para-que-sirve-y-por-que-es-tan-importante/) — oct. 2026
 10. [¿Cómo Elegir la Ubicación Correcta para una Cafetería?](https://www.emcebar.org.mx/como-elegir-la-ubicacion-correcta-para-una-cafeteria-que-debes-tomar-en-cuenta/) — oct. 2026
 11. [Taro: Qué es, cómo se prepara y cómo venderlo en tu cafetería](https://www.emcebar.org.mx/taro-que-es-como-se-prepara-y-como-venderlo-en-tu-cafeteria/) — nov. 2026
+12. [Arte latte: una habilidad que transforma la experiencia del café](https://www.emcebar.org.mx/arte-latte-una-habilidad-que-transforma-la-experiencia-del-cafe/) — nov. 2026
 
 ## Notas de metodología
 
@@ -59,6 +63,7 @@ Cada dato incluye una columna `articulo_fuente` que remite al artículo original
 - Todas las cifras están en pesos mexicanos (MXN) salvo que se indique lo contrario.
 - Los datos de cupping describen el formulario clásico de la SCA (10 atributos, puntaje sobre 100). La cifra de ~1,500 compuestos aromáticos en café vs. ~200 en vino circula en la industria, pero no se identificó estudio primario; la columna `nivel_de_evidencia` lo indica.
 - Los datos de nutrición y seguridad del taro provienen de las fuentes que cita el artículo (USDA FoodData Central, Emergency Medicine 2017 y Centre for Food Safety de Hong Kong 2020); la columna `fuente_original` las identifica. El dataset no agrega cifras propias y no incluye los ejemplos de costeo con cifras hipotéticas.
+- El dato de disposición a pagar del arte latte (11 % a 13 % más) proviene de un estudio de 2015 citado por el artículo fuente sin referencia completa; mide disposición a pagar, no ventas reales. La columna `nivel_de_evidencia` lo indica.
 
 ## Cómo citar este repositorio
 
