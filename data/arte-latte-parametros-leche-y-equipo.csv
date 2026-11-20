@@ -1,0 +1,7 @@
+dato,valor,nota,fuente_original,nivel_de_evidencia,articulo_fuente
+temperatura_leche_c,"55 a 65","No pasar de 70 C: por encima pierde dulzor","EMCEBAR","Practica operativa",https://www.emcebar.org.mx/arte-latte-una-habilidad-que-transforma-la-experiencia-del-cafe/
+tiempo_entre_extraccion_y_leche_s,"~10","Servir la leche en unos 10 segundos tras extraer el espresso","EMCEBAR","Practica operativa",https://www.emcebar.org.mx/arte-latte-una-habilidad-que-transforma-la-experiencia-del-cafe/
+jarra_inicial_oz,8,"Tamanos disponibles: 8, 12 y 16 oz; acero inoxidable con pico definido","EMCEBAR","Practica operativa",https://www.emcebar.org.mx/arte-latte-una-habilidad-que-transforma-la-experiencia-del-cafe/
+taza_latte_oz,8,"Taza de boca amplia","EMCEBAR","Practica operativa",https://www.emcebar.org.mx/arte-latte-una-habilidad-que-transforma-la-experiencia-del-cafe/
+leche_mas_facil,"Entera","Descremada: tecnica avanzada; avena: vegetal mas recomendada; soya: espuma densa; almendra: la mas dificil","EMCEBAR","Practica operativa",https://www.emcebar.org.mx/arte-latte-una-habilidad-que-transforma-la-experiencia-del-cafe/
+disposicion_a_pagar_extra_pct,"11 a 13","Mide disposicion a pagar por un latte con arte frente a uno identico sin arte, no ventas reales","Journal of Sensory Studies (2015), citado por el articulo","Estudio citado sin referencia completa en el articulo (sin titulo ni autores)",https://www.emcebar.org.mx/arte-latte-una-habilidad-que-transforma-la-experiencia-del-cafe/
